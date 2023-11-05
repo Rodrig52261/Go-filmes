@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Esse foi meu primeiro projeto com react.js utilizando API(https://www.themoviedb.org) de filmes, para praticar o básico de algumas funções como useState, useEffect, react router e a biblioteca Swiper para a criação do carrosel. Espero que gostem foi algo bem básico mas que eu me diverti e aprendi muito com esse projeto. <3 <3
